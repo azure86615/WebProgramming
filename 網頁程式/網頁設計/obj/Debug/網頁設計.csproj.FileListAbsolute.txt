@@ -1,0 +1,16 @@
+C:\Users\SF645AA\Desktop\網頁設計\網頁設計\bin\網頁設計.dll
+C:\Users\SF645AA\Desktop\網頁設計\網頁設計\bin\網頁設計.pdb
+C:\Users\SF645AA\Desktop\網頁設計\網頁設計\obj\Debug\網頁設計.dll
+C:\Users\SF645AA\Desktop\網頁設計\網頁設計\obj\Debug\網頁設計.pdb
+C:\Users\cs600g1\Desktop\網頁設計\網頁設計\bin\網頁設計.dll
+C:\Users\cs600g1\Desktop\網頁設計\網頁設計\bin\網頁設計.pdb
+C:\Users\cs600g1\Desktop\網頁設計\網頁設計\obj\Debug\網頁設計.dll
+C:\Users\cs600g1\Desktop\網頁設計\網頁設計\obj\Debug\網頁設計.pdb
+C:\Users\PC2017\Desktop\網頁設計\網頁設計\bin\網頁設計.dll
+C:\Users\PC2017\Desktop\網頁設計\網頁設計\bin\網頁設計.pdb
+C:\Users\PC2017\Desktop\網頁設計\網頁設計\obj\Debug\網頁設計.dll
+C:\Users\PC2017\Desktop\網頁設計\網頁設計\obj\Debug\網頁設計.pdb
+C:\Users\cs600g1\Desktop\網頁程式\網頁設計\bin\網頁設計.dll
+C:\Users\cs600g1\Desktop\網頁程式\網頁設計\bin\網頁設計.pdb
+C:\Users\cs600g1\Desktop\網頁程式\網頁設計\obj\Debug\網頁設計.dll
+C:\Users\cs600g1\Desktop\網頁程式\網頁設計\obj\Debug\網頁設計.pdb
